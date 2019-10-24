@@ -1,4 +1,4 @@
-Test with 
+# Test with `fastcgi_finish_request()`
 
 This takes 4 seconds to show the page with the following content: 
 ```
