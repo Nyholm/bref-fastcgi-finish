@@ -1,0 +1,15 @@
+{
+    "name": "tobias/bref-fastcgi-finish",
+    "type": "project",
+    "require": {
+        "bref/bref": "^0.5.9",
+        "bref/logger": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nyholm",
+            "email": "tobias.nyholm@gmail.com"
+        }
+    ]
+}
